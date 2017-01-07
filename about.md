@@ -3,4 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-[Homepage](smburdick.github.io)
+[Homepage](https://smburdick.github.io)
