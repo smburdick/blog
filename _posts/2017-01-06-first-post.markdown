@@ -2,7 +2,7 @@
 layout: post
 title:  "It's all at your fingertips"
 date:   2017-01-06 12:01 -0800
-categories: learning
+categories: 
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm usually a bit reluctant to lug around a book or pull one off the shelf when I know I could open that and millions of others on my slimmer MacBook, but occasional moments remind me of the importance of the printed page in the digital age. Let me begin with a story about such a moment.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Over the holidays I stayed at my grandmother's house, an antebellum-era plantation home in northwestern South Carolina that's been in my family's possession since the 1880s. As you can probably guess, there's a wealth of artifacts from the last two centuries there--paintings, furniture, certificates--but most interestingly to me, books. As I was perusing boxes of rotting tomes (my great-great-uncle's medical school textbooks if I'm not mistaken) I came across a relatively newer item, a 1960 Compton Encyclopedia set with my great-grandfather's name on the inner cover. I was intrigued.
