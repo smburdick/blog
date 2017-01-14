@@ -24,9 +24,11 @@ github_username:  smburdick
 
 # Build settings
 markdown: kramdown
+#markdown: redcarpet
 theme: minima
 gems:
   - jekyll-feed
+  - redcarpet
 exclude:
   - Gemfile
   - Gemfile.lock
