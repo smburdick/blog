@@ -6,7 +6,7 @@ categories:
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"[Trigger warning](https://www.nytimes.com/2016/09/11/opinion/trigger-warnings-safe-spaces-and-free-speech-too.html)" may be another buzzword but a trigger can be a key unlocking something much greater. Let me tell you about an experience that taught me this.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(If you'd like to pass over the programming stuff, go ahead and skip a couple paragraphs)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(If you'd like to pass over the programming stuff, go ahead and skip the next paragraph)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you've studied languages like C or Java, you've likely come across the `enum` ("enumerated") data type: (C was created during the Cold War, so an appropriate example shall follow)  
 
@@ -23,9 +23,7 @@ enum defcon_exercise_term
 
 Inside the curly braces we have some constants that are assigned to their index (starting at `0`) in the list that we can set the `level` variable to. (We need to add 1 to each value to get the real-life version. `COCKED_PISTOL` equals `0`, but we add 1 to get the correct value. `FAST_PACE` is `1` in the program, and so on.)  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It's been my experience that they're not particularly common, and are typically relegated to textbook exercises. I've never had to use one in a project, except one assignment for a high school class.  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was typing away at my homework in the computer lab one uneventful day, and someone came up behind me, checked my monitor,  said something like "`enum`s? we didn't look at those until the end last year," and walked off. (He'd repeated the course, and we were only about halfway through the school year at the time.) Why do I recall such an everyday exchange? Probably it was one of my very few interactions with [the guy who went on to kill 3 people and injure one at a house party](http://komonews.com/news/local/3-dead-1-wounded-in-shooting-during-party-in-mukilteo) two years later.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I've hitherto never used an enum for a project, except one assignment for a high school class. I was typing away at my homework in the computer lab one uneventful day, and someone came up behind me, checked my monitor,  said something like "`enum`s? we didn't look at those until the end last year," and walked off. (He'd repeated the course, and we were only about halfway through the school year at the time.) Why do I recall such an everyday exchange? Probably it was one of my very few interactions with [the guy who went on to kill 3 people and injure one at a house party](http://komonews.com/news/local/3-dead-1-wounded-in-shooting-during-party-in-mukilteo) two years later.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I had a recollection of hearing about the incident and attending the proceeding vigil the first time I had to look at an `enum` in college, while grading Intro to Computer Science assignments just a few months after the incident. (I got to skip Intro freshman year and had not seen `enum`s since high school) I paused, reflected, and got back to work. The next time I encountered one was the other night, while I was studying basic C for my operating systems course, and I had the same recollection. A similar pause followed. That's when I realized something: `enum` had become something of a trigger to me, which was something I hadn't learned about until late last year. What happened the next day may have solidified it for life.  
 
